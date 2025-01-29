@@ -30,4 +30,6 @@
 
 - Enkel oefeningen over git en terminal (https://apwt.gitbook.io/webontwikkeling-2024/labos/labo1)
 
+## Opmerkingen lectoren
 
+- Hier kan je eventueel notities maken over hoe de les verlopen is, wat goed ging en wat minder goed ging. Dit kunnen we dan gebruiken om de les te verbeteren voor volgend jaar.
