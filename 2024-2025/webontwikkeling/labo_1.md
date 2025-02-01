@@ -25,6 +25,15 @@
 
 - Overlopen van de basis commando's van git (https://apwt.gitbook.io/webontwikkeling-2024/tooling/git) en uitleggen waarom we git gebruiken
 - Eigenlijk moeten ze hier alleen git add, commit en push kennen. De rest is voor later. 
+
+## Project
+
+Kort het project uitleggen. In het kort:
+- De studenten moeten in de eerste milestone zelf een JSON aanmaken voor een onderwerp naar keuze. Het einddoel is een CRUD admin dashboard schrijven voor deze data met een klein login systeem.
+- De JSON moet volgens de specificatie op https://apwt.gitbook.io/webontwikkeling-2024/project/semester-2/milestone-1-terminal-app gemaakt worden. Ze kunnen de data zelf genereren aan de hand van chatgpt of zelf. We moeten wel zeker nagaan dat deze dataset voldoende is, dus voorzie een momentje om dit te controleren ergens in week 2!
+- Het JSON bestand kan gewoon ergens op een publieke git repository gezet worden omdat deze met `fetch` opgehaald zal moeten worden. Let op dat deze repository niet privé is, en dus niet dezelfde is als degene die ze hebben aangemaakt voor de devcontainer en hun code.
+- De studenten die snel klaar zijn met dit labo kunnen eventueel hier al aan beginnen.
+- Demo dit proces eventueel snel met chatgpt
   
 ## Oefeningen
 
