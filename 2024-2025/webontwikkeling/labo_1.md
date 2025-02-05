@@ -8,8 +8,9 @@
 ## Devcontainers opzetten
 
 - Uitleg wat zijn devcontainers en waarom gebruiken we ze (https://apwt.gitbook.io/webontwikkeling-2024/tooling/devcontainers)
-- Er wordt verwacht dat de studenten Docker Desktop, git en Visual Studio Code geïnstalleerd hebben. Indien dit niet het geval is, kan dit tijdens de les gebeuren. Als ze nog geen GitHub account hebben, kunnen ze dit ook aanmaken.
-- Repository aanmaken adhv classroom link (https://classroom.github.com/a/ml4mFUyT)
+- Er wordt verwacht dat de studenten Docker Desktop, git en Visual Studio Code geïnstalleerd hebben. Indien dit niet het geval is, kan dit tijdens de les gebeuren. 
+- Als ze nog geen GitHub account hebben, kunnen ze dit ook aanmaken.
+- Repository aanmaken adhv classroom link (https://classroom.github.com/a/ml4mFUyT) => (link in syllabus onder labos > labo1 > devcontainers-opzetten)[https://apwt.gitbook.io/webontwikkeling-2024/labos/labo1#devcontainer-opzetten]
 - Installeren van de Remote Development extension in Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - Zorg ervoor dat je ingelogd bent in Visual Studio Code met je GitHub account (account icon links onderaan)
 - Gebruik van CTRL + SHIFT + P en dan "Remote-Containers: Open Repository in Container" en kies de repository die je net hebt aangemaakt
@@ -24,7 +25,7 @@
 ## Git
 
 - Overlopen van de basis commando's van git (https://apwt.gitbook.io/webontwikkeling-2024/tooling/git) en uitleggen waarom we git gebruiken
-- Eigenlijk moeten ze hier alleen git add, commit en push kennen. De rest is voor later. 
+- Eigenlijk moeten ze hier alleen git add, commit en push kennen. De rest is voor later.
 
 ## Project
 
@@ -42,3 +43,7 @@ Kort het project uitleggen. In het kort:
 ## Opmerkingen lectoren
 
 - Hier kan je eventueel notities maken over hoe de les verlopen is, wat goed ging en wat minder goed ging. Dit kunnen we dan gebruiken om de les te verbeteren voor volgend jaar.
+
+
+### Philippe
+Ik stel voor om volgend jaar alle studenten samen te laten komen voor de eerste les in een aula, waarbij alle lectoren van webontwikkeling aanwezig zijn. Daar kunnen we uitleg geven over de devcontainers en ervoor zorgen dat deze bij iedereen werken.
