@@ -1,0 +1,1 @@
+- Meer simpele oefeningen toevoegen op Routes. De enige oefening die er nu inzat was iets te moeilijk om mee te beginnen.
